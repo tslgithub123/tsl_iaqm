@@ -1,0 +1,41 @@
+{
+    "user_id" :  1,
+    "email": "xyz@gmail.com",
+    "name": "xyz",
+    "password": "xyz123"
+}
+
+{
+    "email": "xyz@gmail.com",
+    "password": "xyz123"
+}
+
+{
+    "samp_id": 18,
+    "location": {
+        "location_id": 2,
+        "region": "Region",
+        "region_name": "Region Name",
+        "category": "Category",
+        "sub_category": "Sub Category",
+        "location_name": "Location Name",
+        "criteria": "Criteria",
+        "google_map_Link": "Google Map Link",
+        "co_ordinate": "Coordinate"
+    },
+    "sample_code": "ABC1",
+    "steps": "Sample steps",
+    "date": "2024-03-13T14:07:50.931072",
+    "verify": "true",
+    "sampling_values": "2.5",
+    "calibration_date": "2024-03-15"
+}
+
+
+{
+    "pres_id": 1,
+    "user_id": 1,
+    "emp_name": "John Doe",
+    "day": "one",
+    "presenty_status": "Present"
+}
